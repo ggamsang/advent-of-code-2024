@@ -32,4 +32,5 @@ const parsedInput = fileContent
 
 solution(parsedInput).then(console.log)
 
+export { solution }
 

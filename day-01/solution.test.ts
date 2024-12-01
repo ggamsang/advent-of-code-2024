@@ -1,4 +1,4 @@
-import { solution } from './solution'
+import { solution } from './solution-part1'
 import * as fs from 'fs'
 import * as path from 'path'
 
